@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">supletorioMovil</string>
+    <string name="unable_to_open_file">no se pudo abrir archivo</string>
+</resources>
